@@ -1,0 +1,14 @@
+body{
+    background-image: url(Prq.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+button{
+    border-radius: 35px;
+    border-color: brown;
+    color: burlywood;
+    border-color: blueviolet;
+    height: 50px;
+    width: 100px;
+    margin: 350px;
+}
